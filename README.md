@@ -1,6 +1,6 @@
 # Genetic encoding and mutagenesis of RNA droplet phenotypes – analysis code
 
-This repository contains analysis notebooks used to quantify RNA droplet phenotypes from microscopy data, from the corresponding paper: _https://chemrxiv.org/engage/chemrxiv/article-details/680ca3e6927d1c2e66de8256_. 
+This repository contains analysis notebooks used to quantify RNA droplet phenotypes from microscopy data, from the corresponding pre-print: _https://chemrxiv.org/engage/chemrxiv/article-details/680ca3e6927d1c2e66de8256_. 
 The workflows include segmentation of RNA droplets, quantification of droplet and vacuole (hole) areas, and analysis of droplet dynamics from TrackMate tracking data.
 
 ---
